@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-app-spa/static/css/main.154a782b.css",
+    "main.js": "/react-app-spa/static/js/main.6019525c.js",
+    "static/js/787.5ea957b3.chunk.js": "/react-app-spa/static/js/787.5ea957b3.chunk.js",
+    "static/media/fa-solid-900.ttf": "/react-app-spa/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/react-app-spa/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/react-app-spa/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/react-app-spa/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/react-app-spa/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/poert1.png": "/react-app-spa/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/react-app-spa/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/react-app-spa/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/warning.png": "/react-app-spa/static/media/warning.1ada8d88fe962cc8e4d3.png",
+    "static/media/port2.png": "/react-app-spa/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/react-app-spa/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-app-spa/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-app-spa/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/react-app-spa/index.html",
+    "main.154a782b.css.map": "/react-app-spa/static/css/main.154a782b.css.map",
+    "main.6019525c.js.map": "/react-app-spa/static/js/main.6019525c.js.map",
+    "787.5ea957b3.chunk.js.map": "/react-app-spa/static/js/787.5ea957b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154a782b.css",
+    "static/js/main.6019525c.js"
+  ]
+}
