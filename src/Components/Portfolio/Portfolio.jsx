@@ -26,7 +26,7 @@ function Portfolio() {
           <PortfolioItem img={img2} onClick={() => handleDisplay(img2)} />
           <PortfolioItem img={img3} onClick={() => handleDisplay(img3)} />
         </div>
-        <div className="row g-5">
+        <div className="row mb-5 g-5">
           <PortfolioItem img={img1} onClick={() => handleDisplay(img1)} />
           <PortfolioItem img={img2} onClick={() => handleDisplay(img2)} />
           <PortfolioItem img={img3} onClick={() => handleDisplay(img3)} />
