@@ -1,0 +1,31 @@
+#soloItem {
+  background-color: #c2dbfe85;
+  margin: 0;
+  position: fixed;
+  inset: 0;
+}
+
+#showItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+}
+#PortItem {
+  width: 600px;
+  z-index: 999;
+  position: fixed;
+}
+#PortItem img {
+  width: 100%;
+}
+
+.errorImg {
+  height: 10rem;
+  width: 10rem;
+}
+.errorImg img {
+  height: 100%;
+}

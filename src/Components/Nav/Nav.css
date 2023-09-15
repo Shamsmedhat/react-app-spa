@@ -1,0 +1,32 @@
+nav {
+  background-color: var(--main-color);
+  display: flex;
+  z-index: 9999;
+  transition: 0.6s padding;
+}
+
+nav #navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+nav #navBar ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+nav #navBar ul li {
+  margin: 0 0.5rem;
+}
+nav #navBar a,
+nav #navBar ul a {
+  color: var(--main-font-color) !important;
+}
+.titlePage {
+  font-size: 2.2rem !important;
+  font-weight: 700;
+}

@@ -1,0 +1,56 @@
+#portfolio h2 {
+  padding: 2rem 0;
+  margin: 0;
+  font-size: 2.7rem;
+  font-weight: 700;
+  color: var(--main-color);
+}
+#portfolio .starIcon {
+  color: var(--main-color);
+  font-size: 1.3rem;
+  position: relative;
+  width: 0;
+  margin: 1rem auto;
+}
+.portfolio-item {
+  position: relative;
+  cursor: pointer;
+}
+
+.portfolio-item .portCover i {
+  color: var(--main-font-color);
+  font-size: 5rem;
+  background-color: transparent;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.5rem;
+  transition: all 0.7s;
+  opacity: 0;
+}
+
+.portfolio-item .portCover:hover i {
+  background-color: #1abc9ce6;
+  opacity: 1;
+}
+
+#portfolio .starIcon::before {
+  position: absolute;
+  content: "";
+  width: 6rem;
+  height: 0.3rem;
+  background-color: var(--main-color);
+  bottom: 14px;
+  right: 1.8rem;
+}
+#portfolio .starIcon::after {
+  position: absolute;
+  content: "";
+  width: 6rem;
+  height: 0.3rem;
+  background-color: var(--main-color);
+  bottom: 14px;
+  left: 3rem;
+}

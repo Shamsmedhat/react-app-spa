@@ -1,0 +1,23 @@
+.portfolio-item {
+  position: relative;
+  cursor: pointer;
+}
+
+.portfolio-item .portCover i {
+  color: var(--main-font-color);
+  font-size: 5rem;
+  background-color: transparent;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.5rem;
+  transition: all 0.7s;
+  opacity: 0;
+}
+
+.portfolio-item .portCover:hover i {
+  background-color: #1abc9ce6;
+  opacity: 1;
+}
